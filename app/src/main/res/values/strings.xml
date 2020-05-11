@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Notepad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_text_file">Open Text File</string>
+    <string name="new_notepad">New Notepad</string>
+    <string name="done">done</string>
+    <string name="cancel">cancel</string>
+    <string name="enter_file_name">Enter file name</string>
+    <string name="delete_from_file">delete from file</string>
+
+    <string-array name="extension">
+        <item>txt</item>
+        <item>html</item>
+        <item>htm</item>
+        <item>json</item>
+        <item>js</item>
+        <item>css</item>
+    </string-array>
+</resources>
